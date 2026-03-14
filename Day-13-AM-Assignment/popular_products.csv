@@ -1,0 +1,14 @@
+name,category,price,stock,rating,num_reviews
+Laptop Pro,Electronics,45000,25,4.5,320
+Wireless Mouse,Electronics,899,200,4.2,210
+USB-C Hub,Electronics,2499,80,4.7,180
+Mechanical Keyboard,Electronics,5500,45,4.8,420
+Cotton T-Shirt,Clothing,599,200,4.1,150
+Running Shoes,Clothing,3499,70,4.5,210
+Python Cookbook,Books,699,90,4.7,320
+Data Science Guide,Books,899,60,4.4,110
+Clean Code,Books,599,75,4.9,550
+Algorithms,Books,1299,35,4.6,200
+Coffee Maker,Home,3500,45,4.5,130
+Smart Watch,Electronics,12500,40,4.6,280
+Headphones,Electronics,3999,85,4.7,410
