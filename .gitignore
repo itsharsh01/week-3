@@ -3,3 +3,5 @@ docx_extract/
 D13_AM.zip
 *.pyc
 __pycache__/
+*.db
+context.md
