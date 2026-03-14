@@ -1,0 +1,48 @@
+{
+  "before": {
+    "total_rows": 58,
+    "total_missing": 83,
+    "missing_per_column": {
+      "respondent_id": 0,
+      "age": 7,
+      "income": 10,
+      "satisfaction_score": 11,
+      "region": 6,
+      "feedback": 16,
+      "date_submitted": 15,
+      "contact_email": 18
+    },
+    "duplicate_count": 3,
+    "wrong_types": [
+      "age",
+      "income",
+      "satisfaction_score"
+    ],
+    "invalid_values": {
+      "age": 12,
+      "satisfaction_score": 0
+    }
+  },
+  "after": {
+    "total_rows": 55,
+    "total_missing": 55,
+    "missing_per_column": {
+      "respondent_id": 0,
+      "age": 0,
+      "income": 0,
+      "satisfaction_score": 0,
+      "region": 6,
+      "feedback": 16,
+      "date_submitted": 15,
+      "contact_email": 18
+    },
+    "duplicate_count": 0,
+    "wrong_types": [],
+    "invalid_values": {
+      "age": 0,
+      "satisfaction_score": 0
+    }
+  },
+  "rows_before": 58,
+  "rows_after": 55
+}

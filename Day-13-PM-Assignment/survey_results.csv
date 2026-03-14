@@ -1,0 +1,59 @@
+respondent_id,age,income,satisfaction_score,region,feedback,date_submitted,contact_email
+1,25.0,50000,1,  NORTH  ,Good!!,2024-01-15,a@b.com
+2,30.0, 60000 ,2,SOUTH,  Great service  ,15/02/2024,  b@c.co  
+3,-5.0,N/A,3,east,OK,invalid,invalid
+4,35.0,72000,4,WEST,,2024-03-01,
+5,200.0,null,5,  North  ,,,
+6,28.0,55000,,,Bad,2024-04-10,d@e.com
+7,,,4,SOUTH,  EXCELLENT  ,,a@b.com
+8,40.0,80000,3,East,Good!!,2024-01-15,  b@c.co  
+9,22.0,,, west ,  Great service  ,15/02/2024,invalid
+10,45.0,"45,000",5,  NORTH  ,OK,invalid,
+11,,50000,2,SOUTH,,2024-03-01,
+12,31.0, 60000 ,4,east,,,d@e.com
+13,19.0,N/A,,WEST,Bad,2024-04-10,a@b.com
+14,999.0,72000,3,  North  ,  EXCELLENT  ,,  b@c.co  
+15,33.0,null,5,,Good!!,2024-01-15,invalid
+16,25.0,55000,1,SOUTH,  Great service  ,15/02/2024,
+17,30.0,,2,East,OK,invalid,
+18,-5.0,80000,3, west ,,2024-03-01,d@e.com
+19,35.0,,4,  NORTH  ,,,a@b.com
+20,200.0,"45,000",5,SOUTH,Bad,2024-04-10,  b@c.co  
+21,28.0,50000,,east,  EXCELLENT  ,,invalid
+22,, 60000 ,4,WEST,Good!!,2024-01-15,
+23,40.0,N/A,3,  North  ,  Great service  ,15/02/2024,
+24,22.0,72000,,,OK,invalid,d@e.com
+25,45.0,null,5,SOUTH,,2024-03-01,a@b.com
+26,,55000,2,East,,,  b@c.co  
+27,31.0,,4, west ,Bad,2024-04-10,invalid
+28,19.0,80000,,  NORTH  ,  EXCELLENT  ,,
+29,999.0,,3,SOUTH,Good!!,2024-01-15,
+30,33.0,"45,000",5,east,  Great service  ,15/02/2024,d@e.com
+31,25.0,50000,1,WEST,OK,invalid,a@b.com
+32,30.0, 60000 ,2,  North  ,,2024-03-01,  b@c.co  
+33,-5.0,N/A,3,,,,invalid
+34,35.0,72000,4,SOUTH,Bad,2024-04-10,
+35,200.0,null,5,East,  EXCELLENT  ,,
+36,28.0,55000,, west ,Good!!,2024-01-15,d@e.com
+37,,,4,  NORTH  ,  Great service  ,15/02/2024,a@b.com
+38,40.0,80000,3,SOUTH,OK,invalid,  b@c.co  
+39,22.0,,,east,,2024-03-01,invalid
+40,45.0,"45,000",5,WEST,,,
+41,,50000,2,  North  ,Bad,2024-04-10,
+42,31.0, 60000 ,4,,  EXCELLENT  ,,d@e.com
+43,19.0,N/A,,SOUTH,Good!!,2024-01-15,a@b.com
+44,999.0,72000,3,East,  Great service  ,15/02/2024,  b@c.co  
+45,33.0,null,5, west ,OK,invalid,invalid
+46,25.0,55000,1,  NORTH  ,,2024-03-01,
+47,30.0,,2,SOUTH,,,
+48,-5.0,80000,3,east,Bad,2024-04-10,d@e.com
+49,35.0,,4,WEST,  EXCELLENT  ,,a@b.com
+50,200.0,"45,000",5,  North  ,Good!!,2024-01-15,  b@c.co  
+51,28.0,50000,,,  Great service  ,15/02/2024,invalid
+52,, 60000 ,4,SOUTH,OK,invalid,
+53,40.0,N/A,3,East,,2024-03-01,
+54,22.0,72000,, west ,,,d@e.com
+55,45.0,null,5,  NORTH  ,Bad,2024-04-10,a@b.com
+1,25.0,50000,1,  NORTH  ,Good!!,2024-01-15,a@b.com
+2,30.0, 60000 ,2,SOUTH,  Great service  ,15/02/2024,  b@c.co  
+3,-5.0,N/A,3,east,OK,invalid,invalid
