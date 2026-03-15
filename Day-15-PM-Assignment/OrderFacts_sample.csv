@@ -1,0 +1,6 @@
+order_id,customer_id,customer_name,customer_phone,restaurant_id,restaurant_name,item_id,item_name,quantity,unit_price,order_date
+1,101,Alice,111,1,Dosa Hub,1,Plain Dosa,2,50,2024-01-15
+1,101,Alice,111,1,Dosa Hub,2,Idli,1,40,2024-01-15
+2,102,Bob,222,1,Dosa Hub,1,Plain Dosa,1,50,2024-01-16
+3,101,Alice,111,2,Pizza Co,3,Margherita,1,200,2024-01-16
+4,103,Carol,333,2,Pizza Co,3,Margherita,2,200,2024-01-17

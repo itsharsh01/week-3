@@ -3,7 +3,6 @@ Day 13 PM Part C: Interview Ready — Q2 standardize_column(), Q3 fixed buggy co
 Q1 conceptual answer is in interview_answers_pm.md.
 """
 
-import re
 from pathlib import Path
 
 import pandas as pd
